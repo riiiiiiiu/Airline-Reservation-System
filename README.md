@@ -90,6 +90,9 @@ Admin Dashboard
 
 Flight & Offer Management
 
+Role-based authentication
+
+
 ✅ Future Improvements (Optional)
 Online payment integration
 
@@ -99,7 +102,6 @@ Seat selection system
 
 Better UI/UX
 
-Role-based authentication
 
 👨‍💻 Author
 Rehan Shaikh
