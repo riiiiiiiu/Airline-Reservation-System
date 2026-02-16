@@ -50,3 +50,57 @@ This system allows users to search flights, book tickets, manage bookings, raise
   - Bookings
   - Complaints
   - Admin data
+
+---
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/riiiiiiu/airline-reservation-system.git
+Import the project into:
+
+Eclipse / IntelliJ / NetBeans (as a Dynamic Web Project or Maven project)
+
+Setup MySQL Database:
+
+Create a database (e.g., airline_db)
+
+Import the provided SQL file (if you have one)
+
+Update database credentials in your JDBC connection file:
+
+String url = "jdbc:mysql://localhost:3306/airline_db";
+String user = "root";
+String password = "your_password";
+Add the project to Apache Tomcat server.
+
+Run the project and open in browser:
+
+http://localhost:8080/YourProjectName
+
+📌 Modules
+User Authentication
+
+Flight Search & Booking
+
+Booking Management
+
+Complaint Management
+
+Admin Dashboard
+
+Flight & Offer Management
+
+✅ Future Improvements (Optional)
+Online payment integration
+
+Email/SMS booking confirmation
+
+Seat selection system
+
+Better UI/UX
+
+Role-based authentication
+
+👨‍💻 Author
+Rehan Shaikh
+Feel free to connect and contribute!
